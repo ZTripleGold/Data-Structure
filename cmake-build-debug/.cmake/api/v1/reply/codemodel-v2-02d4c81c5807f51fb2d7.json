@@ -1,0 +1,420 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "04.Sort",
+					"jsonFile" : "directory-04.Sort-Debug-5942ec68a11c61760f24.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "04.Sort",
+					"targetIndexes" : 
+					[
+						19,
+						20,
+						21,
+						22
+					]
+				},
+				{
+					"build" : "05.BaseFind",
+					"jsonFile" : "directory-05.BaseFind-Debug-7c5a063bddb35ba6e3cb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "05.BaseFind",
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"build" : "06.RBTree",
+					"jsonFile" : "directory-06.RBTree-Debug-9c06e5b942746b2b1162.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "06.RBTree",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "07.DiskTree",
+					"jsonFile" : "directory-07.DiskTree-Debug-8a413b2814ca73a174e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "07.DiskTree",
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"build" : "08.DP",
+					"jsonFile" : "directory-08.DP-Debug-4416efdfdbf57fea7747.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "08.DP",
+					"targetIndexes" : 
+					[
+						26,
+						27,
+						28
+					]
+				},
+				{
+					"build" : "09.KMP",
+					"jsonFile" : "directory-09.KMP-Debug-71f92f33d519ecde8fd3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "09.KMP",
+					"targetIndexes" : 
+					[
+						29
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"name" : "Data_Structure",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "0-1test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-0-1test-Debug-3b66766b2138a362cf67.json",
+					"name" : "0-1test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1-1SeqList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-1SeqList-Debug-f3e35daabfdb013b2b72.json",
+					"name" : "1-1SeqList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1-2LinkList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-2LinkList-Debug-dfc7c556ee13f0d2332d.json",
+					"name" : "1-2LinkList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1-3Stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-3Stack-Debug-63f5bd947a08e2c0edbf.json",
+					"name" : "1-3Stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1-4Queue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-4Queue-Debug-8844b8a00b36c5b74a80.json",
+					"name" : "1-4Queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-1BinaryTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-1BinaryTree-Debug-21d8e3bda9509b016103.json",
+					"name" : "2-1BinaryTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-2ThreadedTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-2ThreadedTree-Debug-58b8703b916d1b49041c.json",
+					"name" : "2-2ThreadedTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-3BinarySearchTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-3BinarySearchTree-Debug-66da27c06b1413698a9f.json",
+					"name" : "2-3BinarySearchTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-4AVLTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-4AVLTree-Debug-4ce400f881dac0ba4287.json",
+					"name" : "2-4AVLTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-5UnionFindSet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-5UnionFindSet-Debug-1d2e1d28f116d4654e17.json",
+					"name" : "2-5UnionFindSet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-6HuffmanTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-6HuffmanTree-Debug-3c177cc50b2c2426be30.json",
+					"name" : "2-6HuffmanTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-1MatrixGraph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-1MatrixGraph-Debug-5f125a9bd053b7ba846b.json",
+					"name" : "3-1MatrixGraph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-2AdjacentGraph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-2AdjacentGraph-Debug-e59fc3799bde2371c580.json",
+					"name" : "3-2AdjacentGraph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-3CrossLinkGraph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-3CrossLinkGraph-Debug-967b107a8ef01eba9c87.json",
+					"name" : "3-3CrossLinkGraph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-4AdjacencyMultiList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-4AdjacencyMultiList-Debug-5594d517acb5f45f8605.json",
+					"name" : "3-4AdjacencyMultiList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-5MiniTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-5MiniTree-Debug-f3c92c1991c7d1e9c3cb.json",
+					"name" : "3-5MiniTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-6ShortestPath::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-6ShortestPath-Debug-710ee4a790f38869bd44.json",
+					"name" : "3-6ShortestPath",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-7TopologicalSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-7TopologicalSort-Debug-649c5722199f8009d4e0.json",
+					"name" : "3-7TopologicalSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-8KeyPath::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-8KeyPath-Debug-ecb42ebfafd5f4b34d9e.json",
+					"name" : "3-8KeyPath",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "4-1InsertSort::@b62dcd4d76d0f7f96bec",
+					"jsonFile" : "target-4-1InsertSort-Debug-8c8865e66c1f2877a482.json",
+					"name" : "4-1InsertSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "4-2SwapSort::@b62dcd4d76d0f7f96bec",
+					"jsonFile" : "target-4-2SwapSort-Debug-82f6b2e7f4b0c688b9eb.json",
+					"name" : "4-2SwapSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "4-3HeapSort::@b62dcd4d76d0f7f96bec",
+					"jsonFile" : "target-4-3HeapSort-Debug-cfbc2feaba60c90a7c95.json",
+					"name" : "4-3HeapSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "4-4MergeSort::@b62dcd4d76d0f7f96bec",
+					"jsonFile" : "target-4-4MergeSort-Debug-1e01cc670031d4a626c0.json",
+					"name" : "4-4MergeSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "5-1BinarySearch::@b5a7b6af2c8c17947e81",
+					"jsonFile" : "target-5-1BinarySearch-Debug-a83c27bf50a006dfaa53.json",
+					"name" : "5-1BinarySearch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "6-1RBTree::@185d9855d088a5a876fb",
+					"jsonFile" : "target-6-1RBTree-Debug-468bee8ea77ef9dad01b.json",
+					"name" : "6-1RBTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "7-1DiskTree::@9e80f9611891c62cd6b1",
+					"jsonFile" : "target-7-1DiskTree-Debug-982db6024da4eb91a31f.json",
+					"name" : "7-1DiskTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "8-1dp_base::@dcb5ab13b2a9a3594bdc",
+					"jsonFile" : "target-8-1dp_base-Debug-07f2977d9b1dd32f97e3.json",
+					"name" : "8-1dp_base",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "8-2knapsack::@dcb5ab13b2a9a3594bdc",
+					"jsonFile" : "target-8-2knapsack-Debug-99fa6e211e850f6eb36c.json",
+					"name" : "8-2knapsack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "8-3floyd::@dcb5ab13b2a9a3594bdc",
+					"jsonFile" : "target-8-3floyd-Debug-8f535725b413a8b5a6e6.json",
+					"name" : "8-3floyd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "9-1KMP::@63c7f0604eaa1bef0e0c",
+					"jsonFile" : "target-9-1KMP-Debug-843849cead4c27163b6e.json",
+					"name" : "9-1KMP",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code Project/Data Structure/cmake-build-debug",
+		"source" : "D:/Code Project/Data Structure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
